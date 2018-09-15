@@ -1,2 +1,12 @@
-# ChangAlee
-Cambios
+{"version_code":xxxxxxx,"content":"
+<p>WhatsApp Mix v7.75 By Alee TR</p>
+
+
+<li>Nuevos Iconos Glass</li>
+<li>Traducido a Español</li>
+<li>Otros Cambios</li>
+<li>NMInsta Plus</li>
+
+
+","url":"https://mundoappmix.blogspot.com/?m=1"
+}
