@@ -1,11 +1,8 @@
-{"version_code":xxxxxxx,"content":"
+{"version_code":452402,"content":"
 <p>WhatsApp Mix v7.75 By Alee TR</p>
 
 
-<li>Nuevos Iconos Glass</li>
-<li>Traducido a Español</li>
-<li>Otros Cambios</li>
-<li>NMInsta Plus</li>
+<li>Bien venidas al MOD WAMix Femenino, Espero y Difruten y que sea de su agrado (Equipo MIXWAMods)</li>
 
 
 ","url":"https://mundoappmix.blogspot.com/?m=1"
